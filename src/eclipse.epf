@@ -69,7 +69,6 @@
 /instance/org.eclipse.debug.ui/pref_state_memento.org.eclipse.debug.ui.ExpressionView=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<VariablesViewMemento org.eclipse.debug.ui.SASH_DETAILS_PART\="417" org.eclipse.debug.ui.SASH_VIEW_PART\="582">\r\n<COLUMN_SIZES IMemento.internal.id\="org.eclipse.debug.ui.VARIALBE_COLUMN_PRESENTATION.COL_VAR_VALUE" SIZE\="134"/>\r\n<COLUMN_SIZES IMemento.internal.id\="org.eclipse.debug.ui.VARIALBE_COLUMN_PRESENTATION.COL_VAR_NAME" SIZE\="357"/>\r\n<PRESENTATION_CONTEXT_PROPERTIES IMemento.internal.id\="org.eclipse.debug.ui.ExpressionView">\r\n<INTEGER IMemento.internal.id\="initialChildCountLimitForCollections" INTEGER\="100"/>\r\n</PRESENTATION_CONTEXT_PROPERTIES>\r\n</VariablesViewMemento>
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_C\:_Program\ Files_eclipse_p2_org.eclipse.equinox.p2.director_rollback/isSystem=true
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/file\:_F\:_eclipse_eclipse_p2_org.eclipse.equinox.p2.core_cache_/url=file\:/F\:/eclipse/eclipse/p2/org.eclipse.equinox.p2.core/cache/
-/instance/org.eclipse.cdt.managedbuilder.core/properties/bspam335x.null.2144094751/com.sylixos.realcoder.toolChain.armsylixeabi.438692728=com.sylixos.realcoder.toolChain.armsylixeabi.438692728\=rcState\\\=0\\r\\nrebuildState\\\=false\\r\\n\r\ncom.sylixos.realcoder.toolChain.armsylixeabi.904162025\=rebuildState\\\=false\\r\\n\r\ncom.sylixos.realcoder.tool.armsylixeabi.872443989\=rebuildState\\\=false\\r\\n\r\n
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__www.zylin.com_zylincdt/suffix=artifacts.xml
 /instance/org.eclipse.cdt.core.prj-librtmp/indexer/preferenceScope=0
 /instance/org.eclipse.cdt.core.prj-libosip2/indexer/preferenceScope=0
@@ -630,7 +629,6 @@
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/file\:_F\:_eclipse_eclipse_.eclipseextension/type=org.eclipse.equinox.p2.extensionlocation.metadataRepository
 /instance/org.eclipse.cdt.ui/c_single_line_comment=0,155,0
 /configuration/org.eclipse.equinox.p2.artifact.repository/repositories/http\:__download.eclipse.org_birt_update-site_2.3/isSystem=false
-/instance/org.eclipse.egit.core/GitRepositoriesView.GitDirectories=E\:\\sylixos_ws\\libusbdrv\\.git;E\:\\sylixos_ws_am335x_newest\\bspam335x\\.git;E\:\\sylixos_ws\\bspmini2440\\.git;E\:\\sylixos_ws\\libsylixos\\.git;E\:\\sylixos_ws\\bspmini2440_20141105\\.git;E\:\\sylixos_ws\\examples\\.git;E\:\\sylixos_ws\\libusb\\.git;E\:\\sylixos_ws_am335x_newest\\sylixos\\libsylixos\\.git;E\:\\sylixos_ws\\libusb_bug\\.git;E\:\\sylixos_ws\\hello_sd\\.git;E\:\\sylixos_ws\\wireless\\.git;E\:\\sylixos_ws\\bspsmart210\\.git;E\:\\sylixos_ws\\hello_wireless\\.git;E\:\\sylixos_ws\\usbtest\\.git;
 /instance/org.eclipse.cdt.core.prj-libusb_raw/indexer/preferenceScope=0
 /instance/org.eclipse.cdt.ui/nameStyle.constant.wordDelimiter=_
 /configuration/org.eclipse.equinox.p2.metadata.repository/repositories/http\:__download.eclipse.org_modeling_m2m_updates_/enabled=false
